@@ -70,9 +70,6 @@ You can find another example site i made for the ICC 2025 case study competition
 - **🐛 [Report Issues](https://github.com/Xeno54Xe/Buttbanner-enactus.git/issues)**: Submit bugs found or log feature requests for the `Buttbanner-enactus.git` project.
 - **💡 [Submit Pull Requests](https://github.com/Xeno54Xe/Buttbanner-enactus.git/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
-<details closed>
-
-
 ## 🎗 License
 
 This project is protected under the [MIT-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
